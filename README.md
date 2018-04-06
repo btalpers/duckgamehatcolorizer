@@ -1,4 +1,5 @@
 # duckgamehatcolorizer
+
 Automatically generates team-specific hats based off a base hat.
 
 Requires Python 2.7 (untested with 3) and the latest PIL (Python Imaging Library)
